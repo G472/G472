@@ -11,4 +11,5 @@
 
 ## 💬 Contact Me:
 
-◦ Akari#3629
+◦ Akari#3629<br>
+(Only Discord)
