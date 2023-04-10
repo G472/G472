@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akari</h1>
-<h3 align="center">I'm a FullStack Developer in the UK</h3>
+<h3 align="center">I'm 15, And a FullStack Developer</h3>
 
-- 🔭 I’m currently working on **My Website.**
+- 🔭 I’m currently working on: **My Website.**
 
-- 🧠 I Learnt **Lua, Html, Js, C++**
+- 🧠 I Learnt: **Lua, Html, Js, C++**
 
-- 🕛 Coding Since **2018**
+- 🕛 Coding Since: **2018**
 
 <h3 align="left">Connect with me:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/374715736729583616)
+
 <p align="left">
 </p>
 
