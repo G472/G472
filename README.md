@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact Me:</h3>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/374715736729583616?borderRadius=5px)
+![Discord Presence](https://lanyard.cnrad.dev/api/374715736729583616?borderRadius=5px&idleMessage=Probably%20nothing)
 
 <p align="left">
 </p>
