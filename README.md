@@ -8,3 +8,7 @@
 
 ◦ Making websites?<br>
 ◦ Discord bot. idk<br>
+
+## 💬 Contact Me:
+
+◦ Akari#3629
