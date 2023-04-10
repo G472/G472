@@ -1,5 +1,5 @@
 ## 😎 About me:
 
-◦ I'm working on: My website.
-◦ I'm 15
-◦ I live in the UK
+◦ I'm working on: My website.<br>
+◦ I'm 15<br>
+◦ I live in the UK<br>
