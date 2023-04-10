@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/374715736729583616)
+[![Discord Presence](https://lanyard.cnrad.dev/api/374715736729583616)](https://discord.com/users/374715736729583616)
 
 <p align="left">
 </p>
