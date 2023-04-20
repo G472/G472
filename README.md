@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **My Website.**
 
-- 🧠 I Learnt: **Lua, Html, Js, C++**
+- 🧠 I Learnt: **Lua, Html, Js, C++, C#**
 
 - 🕛 Coding Since: **2018**
 
